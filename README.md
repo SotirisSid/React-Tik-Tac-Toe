@@ -27,4 +27,4 @@ A simple Tic-Tac-Toe game built with React.
 - JavaScript (ES6+)
 - CSS
 
-- 
+
